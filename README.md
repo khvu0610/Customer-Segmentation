@@ -17,21 +17,21 @@ To carry out segment analysis
 To determine which customers to target from our new customer list
 There are three datasets made available for this analysis;
 
-The transactions table contains over 19,000 transactions from three states for 2017
+The **transactions** table contains over 19,000 transactions from three states for 2017
 
-The Customer demographic table contains information such as customer_id, first_name, last_name, gender, date of birth (DOB), job_title, job_industry_category, wealth_segment, owns_car.
+The **Customer demographic** table contains information such as **customer_id, first_name, last_name, gender, date of birth (DOB), job_title, job_industry_category, wealth_segment, owns_car**.
 
-The Customer Address table contains information such as customer_id, address, postcode, state, and country.
+The **Customer Address** table contains information such as **customer_id, address, postcode, state, and country**.
 
-The New customer list contains all information in the customer demographic and address table but no customer_id since they are not registered customers.
+The **New customer list** contains all information in the customer demographic and address table but no customer_id since they are not registered customers.
 
 The dataset was imported into the SQL server, a little data cleaning was carried out and additional fields such as the age and age_group needed for the analysis were added.
 
 RFM analysis is a customer segmentation technique that evaluates customer behavior based on three key factors:
 
-Recency (how recently a customer made a purchase)
-Frequency (how often a customer makes purchases)
-Monetary Value (the total amount a customer has spent).
+**Recency** (how recently a customer made a purchase)
+**Frequency** (how often a customer makes purchases)
+**Monetary** Value (the total amount a customer has spent).
 By assigning scores to each factor, customers are divided into distinct segments. This approach enables businesses to gain insights into customer engagement, loyalty, and spending patterns, allowing for tailored marketing strategies, personalized communication, and effective targeting of promotions to different groups, ultimately enhancing customer relationships and driving business growth.
 
-The tool used; Microsoft SQL Server, Microsoft Excel
+The tool used: **Microsoft SQL Server, Microsoft Excel**
