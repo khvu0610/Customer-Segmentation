@@ -10,11 +10,16 @@ Customer segmentation means dividing customers into groups with common attribute
 
 Companies need to identify target audiences for their product offerings, they target segments rather than a whole market to get better payoffs. Precision improves marketing with personalized messages, better conversions, lower costs, and higher ROI.
 
-To collect transaction data
-To calculate RFM scores
-To carry out segmentation from RFM scores
-To carry out segment analysis
-To determine which customers to target from our new customer list
+**To collect transaction data**
+
+**To calculate RFM scores**
+
+**To carry out segmentation from RFM scores**
+
+**To carry out segment analysis**
+
+**To determine which customers to target from our new customer list**
+
 There are three datasets made available for this analysis;
 
 The **transactions** table contains over 19,000 transactions from three states for 2017
@@ -83,11 +88,13 @@ I will also look at the purchase patterns to understand the types of products th
 Let’s dive deeper
 
 _**what is the age distribution of our target segments?**_
+
 ![Customer Count by Age Group and Segments.png](https://github.com/khvu0610/Customer-Segmentation/blob/47cf0fd542e3bbe9ae0349728ee157b65ec5bc8e/Images/Customer%20Count%20by%20Age%20Group%20and%20Segments.png)
 
 From the visual representation of our query result, we can see that our chosen segments are made up of people mostly above the age of 55.
 
 _**what is the location distribution of our target segments?**_
+
 ![Customer Count by State and Segments.png](https://github.com/khvu0610/Customer-Segmentation/blob/47cf0fd542e3bbe9ae0349728ee157b65ec5bc8e/Images/Customer%20Count%20by%20State%20and%20Segments.png)
 
 Our target segments are people mostly from the state of New south wales with 830 persons coming up second is Victoria with 397 persons.
@@ -98,21 +105,24 @@ _**what is the job industry distribution of our target segments?**_
 For the trait of the job industry, we have three categories to consider, these are Manufacturing, Health, and Financial Services, they make up a good portion of our target segment.
 
 _**what is the wealth segment distribution of the target segment?**_
+
 ![Customer count by Wealth Segment.png](https://github.com/khvu0610/Customer-Segmentation/blob/47cf0fd542e3bbe9ae0349728ee157b65ec5bc8e/Images/Customer%20count%20by%20Wealth%20Segment.png)
 
 The majority of our target segment belongs to the mass customer wealth segment, with high net worth and affluent customers at even.
 
 _**What is the preferred brand of our target segment?**_
+
 ![Order Volume By Brand.png](https://github.com/khvu0610/Customer-Segmentation/blob/47cf0fd542e3bbe9ae0349728ee157b65ec5bc8e/Images/Order%20Volume%20By%20Brand.png)
 
 The Solex brand has the highest order volume among all brands in stock, but if we ignore this brand we can see that the other brands are at evens when comes to order volume.
 
 _**Are there any seasonal trends for our segments?**_
+
 ![Order Volume By Month.png](https://github.com/khvu0610/Customer-Segmentation/blob/47cf0fd542e3bbe9ae0349728ee157b65ec5bc8e/Images/Order%20Volume%20By%20Month.png)
 
-The answer is Yes, there is a seasonal trend. Customers in this segment tend to purchase more products towards the end of the year, specifically in the months of October, November, and December.
+The answer is _**Yes**_, there is a seasonal trend. Customers in this segment tend to purchase more products towards the end of the year, specifically in the months of October, November, and December.
 
-**Age Distribution: **The majority of our chosen segments are composed of individuals aged 55 and above. This demographic insight can have implications for product preferences, communication strategies, and overall marketing approaches.
+**Age Distribution:** The majority of our chosen segments are composed of individuals aged 55 and above. This demographic insight can have implications for product preferences, communication strategies, and overall marketing approaches.
 
 **Geographic Segmentation:** Our target segments are primarily located in the state of New South Wales, with a significant portion residing in Victoria as well.
 
