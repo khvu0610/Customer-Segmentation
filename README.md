@@ -100,6 +100,7 @@ _**what is the location distribution of our target segments?**_
 Our target segments are people mostly from the state of New south wales with 830 persons coming up second is Victoria with 397 persons.
 
 _**what is the job industry distribution of our target segments?**_
+
 ![Customer Count by Job Industry Category.png](https://github.com/khvu0610/Customer-Segmentation/blob/47cf0fd542e3bbe9ae0349728ee157b65ec5bc8e/Images/Customer%20Count%20by%20Job%20Industry%20Category.png)
 
 For the trait of the job industry, we have three categories to consider, these are Manufacturing, Health, and Financial Services, they make up a good portion of our target segment.
