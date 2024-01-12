@@ -30,7 +30,9 @@ The dataset was imported into the SQL server, a little data cleaning was carried
 RFM analysis is a customer segmentation technique that evaluates customer behavior based on three key factors:
 
 **Recency** (how recently a customer made a purchase)
+
 **Frequency** (how often a customer makes purchases)
+
 **Monetary** Value (the total amount a customer has spent).
 By assigning scores to each factor, customers are divided into distinct segments. This approach enables businesses to gain insights into customer engagement, loyalty, and spending patterns, allowing for tailored marketing strategies, personalized communication, and effective targeting of promotions to different groups, ultimately enhancing customer relationships and driving business growth.
 
